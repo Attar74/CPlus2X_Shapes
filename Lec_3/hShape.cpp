@@ -1,18 +1,20 @@
 #include <iostream>
-#include <vector>
-#include <string>
 
 using namespace std;
 
 int main()
 {
   int h;
+  cout << "Enter letter Height" << endl;
   cin >> h;
   int stares = 1;
 
   for (int i = 0; i < h; i++) {
     for(int j = 0; j < h; j++) {
-        if(((j==0&&i!=h-1) || (j==(h-1)&&(i != h-1)) || (i==(h-1)&&j!=0&&j!=h-1) )) {
+        if(i == h/2) {
+            cout << "* ";
+        }
+        else if((j==0 || j==(h-1))) {
             cout << "* ";
         } else {
             cout << "  ";

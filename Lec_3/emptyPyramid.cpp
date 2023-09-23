@@ -1,12 +1,11 @@
 #include <iostream>
-#include <vector>
-#include <string>
 
 using namespace std;
 
 int main()
 {
     int h;
+    cout << "Enter shape Height" << endl;
     cin >> h;
     int spaces = h-1;
     int stares = 1;
@@ -16,10 +15,14 @@ int main()
             cout << " ";
         }
         for(int j = 0; j < stares; j++) {
-            cout << "*";
+            if(i == 0 || i == h-1 || j == 0 || j == stares - 1) {
+                cout << "*";
+            } else {
+                cout << " ";
+            }
         }
         spaces--;
-        stares++;
+        stares+=2;
         cout << endl;
     }
     return 0;

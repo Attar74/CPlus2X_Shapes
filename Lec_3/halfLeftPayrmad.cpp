@@ -1,12 +1,11 @@
 #include <iostream>
-#include <vector>
-#include <string>
 
 using namespace std;
 
 int main()
 {
     int h;
+    cout << "Enter shape Height" << endl;
     cin >> h;
     int spaces = h-1;
     int stares = 1;
@@ -19,7 +18,7 @@ int main()
             cout << "*";
         }
         spaces--;
-        stares+=2;
+        stares++;
         cout << endl;
     }
     return 0;
