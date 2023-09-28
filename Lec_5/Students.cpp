@@ -49,8 +49,8 @@ void maxMInSubject(float ** grades, int studentArrSize, int subjectArrSize) {
             }
         }
         cout << "//////////////////// \n";
-        cout << "Max subject grade for student number " << i << " is: " << maxSubject << endl;
-        cout << "Min subject grade for student number " << i << " is: " << minSubject << endl;
+        cout << "Max subject grade for student number " << i + 1 << " is: " << maxSubject << endl;
+        cout << "Min subject grade for student number " << i + 1 << " is: " << minSubject << endl;
         cout << "//////////////////// \n";
     }
 }

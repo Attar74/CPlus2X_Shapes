@@ -10,15 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccf6300f-a2a9-4217-ada6-44fef3c90e3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec_4/calculator.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec_5/Students.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Students" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/helloworld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_6/XO_Table.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec_5/Students.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lec_5/Students.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +50,25 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.Students.cpp">
+  <component name="RunManager" selected="C/C++ File.XO_Table.cpp">
     <configuration name="Students.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="Students.cpp" CONFIG_NAME="Students.cpp">
       <option name="sourceFile" value="Lec_5/Students.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XOTable.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="XOTable.cpp" CONFIG_NAME="XOTable.cpp">
+      <option name="sourceFile" value="XOTable.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XO_Table.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="XO_Table.cpp" CONFIG_NAME="XO_Table.cpp">
+      <option name="sourceFile" value="Lec_6/XO_Table.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -74,7 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.XO_Table.cpp" />
         <item itemvalue="C/C++ File.Students.cpp" />
+        <item itemvalue="C/C++ File.XOTable.cpp" />
         <item itemvalue="C/C++ File.calculator.cpp" />
       </list>
     </recent_temporary>
@@ -88,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1695765853970</updated>
       <workItem from="1695765856175" duration="7100000" />
-      <workItem from="1695854182462" duration="5592000" />
+      <workItem from="1695854182462" duration="6003000" />
+      <workItem from="1695933616286" duration="8365000" />
     </task>
     <servers />
   </component>
