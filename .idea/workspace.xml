@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccf6300f-a2a9-4217-ada6-44fef3c90e3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec_6/XO_Table.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_6/baseConversion.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lec_5/Students.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lec_5/Students.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.XO_Table.cpp">
+  <component name="RunManager" selected="C/C++ File.baseConversion.cpp">
     <configuration name="Students.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="Students.cpp" CONFIG_NAME="Students.cpp">
       <option name="sourceFile" value="Lec_5/Students.cpp" />
       <method v="2">
@@ -73,6 +72,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="baseConversion.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="baseConversion.cpp" CONFIG_NAME="baseConversion.cpp">
+      <option name="sourceFile" value="Lec_6/baseConversion.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="calculator.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="calculator.cpp" CONFIG_NAME="calculator.cpp">
       <option name="sourceFile" value="Lec_4/calculator.cpp" />
       <method v="2">
@@ -81,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.baseConversion.cpp" />
         <item itemvalue="C/C++ File.XO_Table.cpp" />
         <item itemvalue="C/C++ File.Students.cpp" />
         <item itemvalue="C/C++ File.XOTable.cpp" />
@@ -98,7 +104,7 @@
       <updated>1695765853970</updated>
       <workItem from="1695765856175" duration="7100000" />
       <workItem from="1695854182462" duration="6003000" />
-      <workItem from="1695933616286" duration="8365000" />
+      <workItem from="1695933616286" duration="13356000" />
     </task>
     <servers />
   </component>
