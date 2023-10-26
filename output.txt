@@ -1,0 +1,4 @@
+walking:N
+flying:N
+swimming:Y
+toBeEaten:Y

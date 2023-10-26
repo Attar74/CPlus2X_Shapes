@@ -1,0 +1,4 @@
+walking>Can walk?
+flying>Can fly?
+swimming>Can swim?
+toBeEaten>can we eat it?

@@ -10,7 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccf6300f-a2a9-4217-ada6-44fef3c90e3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lec_7/Struct.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileStream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_11/FileStream.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_11/assignment.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_11/errorHandling.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_11/solved.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_15/ArrayList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_15/linkedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_15/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solved" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,71 +44,75 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2Vx7PSJEginRtXJGfkbwpnBZjLp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/media/attar74_",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/attar74_/Work/Courses/C++_Moshrief/Lec_15/OneDrive-2023-10-23&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lec_3" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Struct.cpp">
-    <configuration name="Struct.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="Struct.cpp" CONFIG_NAME="Struct.cpp">
-      <option name="sourceFile" value="Lec_7/Struct.cpp" />
+  <component name="RunManager" selected="C/C++ File.main.cpp">
+    <configuration name="FileStream.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="FileStream.cpp" CONFIG_NAME="FileStream.cpp">
+      <option name="sourceFile" value="Lec_11/FileStream.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="Students.cpp" CONFIG_NAME="Students.cpp">
-      <option name="sourceFile" value="Lec_5/Students.cpp" />
+    <configuration name="assignment.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="assignment.cpp" CONFIG_NAME="assignment.cpp">
+      <option name="sourceFile" value="Lec_11/assignment.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XOTable.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="XOTable.cpp" CONFIG_NAME="XOTable.cpp">
-      <option name="sourceFile" value="XOTable.cpp" />
+    <configuration name="errorHandling.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="errorHandling.cpp" CONFIG_NAME="errorHandling.cpp">
+      <option name="sourceFile" value="Lec_11/errorHandling.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XO_Table.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="XO_Table.cpp" CONFIG_NAME="XO_Table.cpp">
-      <option name="sourceFile" value="Lec_6/XO_Table.cpp" />
+    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="Lec_15/main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baseConversion.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="baseConversion.cpp" CONFIG_NAME="baseConversion.cpp">
-      <option name="sourceFile" value="Lec_6/baseConversion.cpp" />
+    <configuration name="solved.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Projects" TARGET_NAME="solved.cpp" CONFIG_NAME="solved.cpp">
+      <option name="sourceFile" value="Lec_11/solved.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.Struct.cpp" />
-        <item itemvalue="C/C++ File.baseConversion.cpp" />
-        <item itemvalue="C/C++ File.XO_Table.cpp" />
-        <item itemvalue="C/C++ File.Students.cpp" />
-        <item itemvalue="C/C++ File.XOTable.cpp" />
+        <item itemvalue="C/C++ File.main.cpp" />
+        <item itemvalue="C/C++ File.assignment.cpp" />
+        <item itemvalue="C/C++ File.solved.cpp" />
+        <item itemvalue="C/C++ File.errorHandling.cpp" />
+        <item itemvalue="C/C++ File.FileStream.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -111,11 +127,32 @@
       <workItem from="1695765856175" duration="7100000" />
       <workItem from="1695854182462" duration="6003000" />
       <workItem from="1695933616286" duration="13525000" />
-      <workItem from="1696083450889" duration="6332000" />
+      <workItem from="1696083450889" duration="6597000" />
+      <workItem from="1696968408285" duration="3322000" />
+      <workItem from="1697060433621" duration="7260000" />
+      <workItem from="1697305555567" duration="6467000" />
+      <workItem from="1697577730633" duration="2000" />
+      <workItem from="1698072203597" duration="42000" />
+      <workItem from="1698095919470" duration="7668000" />
+      <workItem from="1698275884083" duration="7931000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Lec_11/assignment.cpp</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
