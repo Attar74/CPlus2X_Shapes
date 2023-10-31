@@ -10,20 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccf6300f-a2a9-4217-ada6-44fef3c90e3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FileStream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec_11/FileStream.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec_11/assignment.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec_11/errorHandling.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec_11/solved.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec_15/ArrayList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec_15/linkedList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec_15/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_15/linkedListDualDim.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_16/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec_16/queue.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec_15/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lec_15/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +43,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/attar74_/Work/Courses/C++_Moshrief/Lec_15/OneDrive-2023-10-23&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/media/attar74_/Work/Courses/C++_Moshrief/projects/Projects/Lec_16",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lec_16" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lec_3" />
     </key>
@@ -134,7 +129,9 @@
       <workItem from="1697577730633" duration="2000" />
       <workItem from="1698072203597" duration="42000" />
       <workItem from="1698095919470" duration="7668000" />
-      <workItem from="1698275884083" duration="7931000" />
+      <workItem from="1698275884083" duration="8046000" />
+      <workItem from="1698493217141" duration="8263000" />
+      <workItem from="1698790681386" duration="851000" />
     </task>
     <servers />
   </component>

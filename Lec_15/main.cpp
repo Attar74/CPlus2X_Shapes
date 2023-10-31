@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 #include "ArrayList.h"
-#include "linkedList.h"
+//#include "linkedList.h"
+#include "linkedListDualDim.h"
 
 int main()
 {
@@ -42,7 +43,7 @@ int main()
     } */
 
     /* Linked List */
-    LinkedList <int> arr;
+    /*LinkedList <int> arr;
     LinkedList <int> arr1;
 
     for(int i=0; i < 11; i++) {
@@ -54,7 +55,32 @@ int main()
         arr1.AddFront(i);
     }
     arr1.DeleteByIndex(5);
-    arr1.PrintAll();
+    arr1.PrintAll();*/
+
+    /* Linked List Dual */
+    LinkedListDual <int> arr;
+    for(int i=0; i < 10; i++) {
+        arr.AddBack(i);
+    }
+    cout << "\n===========================\n";
+    arr.PrintAll();
+
+    /*arr.DeleteByIndexFromFront(3);
+    arr.DeleteByValue(5);*/
+
+    try {
+        arr.Insert(100, 9);
+    } catch (std::invalid_argument& e) {
+        cout << e.what() << endl;
+    }
+
+    arr.DeleteByIndexFromFront(2);
+    arr.DeleteByIndexFromBack(2);
+    arr.DeleteByValue(5);
+
+    cout << "\n===========================\n";
+    arr.PrintAll();
+    cout << "\n===========================\n";
 
     return 0;
 }
