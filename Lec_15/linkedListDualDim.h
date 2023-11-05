@@ -80,7 +80,17 @@ public:
     }
 
     void DeleteByIndexFromFront(int index) {
+        if(!head) {
+            throw "Not Founded!";
+        }
         Node<T>* temp = head;
+        if (index == 0) {
+            head = head->getNext();
+            if(head == NULL) {
+                tail = NULL;
+            }
+            return;
+        }
         for(int i =0; i < index; i++){
             temp = temp->getNext();
         }
@@ -122,6 +132,13 @@ public:
             temp = temp->getNext();
         }
         temp->setValue(value);
+
+        /*Moshrief*/
+        /*Node<T>* newNode = new Node<T>(value);
+        temp->getPrevious()->setNext(newNode);
+        newNode->setNext(temp);
+        newNode->setPrevious(temp->getPrevious());
+        temp->setPrevious(newNode);*/
     }
 
     void PrintAll () {

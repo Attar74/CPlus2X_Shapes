@@ -74,9 +74,8 @@ int main()
         cout << e.what() << endl;
     }
 
-    arr.DeleteByIndexFromFront(2);
-    arr.DeleteByIndexFromBack(2);
-    arr.DeleteByValue(5);
+    arr.DeleteByIndexFromFront(0);
+    //arr.DeleteByIndexFromBack(10);
 
     cout << "\n===========================\n";
     arr.PrintAll();
